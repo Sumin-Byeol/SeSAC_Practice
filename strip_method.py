@@ -1,1 +1,1 @@
-'www.example.com'.strip('cmowz.’)
+#'www.example.com'.strip('cmowz.’)
